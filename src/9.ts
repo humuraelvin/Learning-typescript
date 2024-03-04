@@ -8,3 +8,4 @@ function returnInterval(): Date & { end: Date } {
 
 console.log(returnInterval());
 
+
