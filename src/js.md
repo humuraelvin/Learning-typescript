@@ -1,15 +1,7 @@
-* Spreading
+- Spreading
 
-* Destructing objects
+- Destructing objects
 
-* Real Parameter
+- Real Parameter
 
-* Map, filter, Reduce, etc...
-
-
-
-
-
-
-
-
+- Map, filter, Reduce, etc...
