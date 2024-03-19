@@ -6,3 +6,4 @@ function addTwo(a:any, b:any):any{
 
 addTwo("hello", "elvin");
 addTwo(3, 5)
+
