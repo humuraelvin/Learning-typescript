@@ -1,5 +1,5 @@
 {
-    "name":"basictsproject",
+    "name":"learningtypescriptfundamentalsandbasics",
     "license":"NOLICENSE",
     "devDependencies":{
         "typescript":"^4.3.2"
