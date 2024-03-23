@@ -4,6 +4,7 @@
     "devDependencies":{
         "typescript":"^4.3.2"
     },
+    "author": "",
     "scripts":{
         "dev":"tsc --watch --preserveWatchOutput"
     }
