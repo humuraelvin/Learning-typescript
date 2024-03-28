@@ -15,3 +15,4 @@ class HumanBeing implements Animal {
   }
 }
 
+
